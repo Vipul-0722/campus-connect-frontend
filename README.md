@@ -248,7 +248,7 @@ For production (Kubernetes), these are configured to use the same domain via the
 
 ## 10. License
 
-[Your License Here]
+MIT License
 
 ---
 
